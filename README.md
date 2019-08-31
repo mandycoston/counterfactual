@@ -1,5 +1,4 @@
-counterfactual
-Counterfactual modeling, evaluation and fairness
+# Counterfactual modeling, evaluation and fairness
 
 The notebook synthetic_experiments.Rmd reproduces the synthetic empirical analysis in the paper "Counterfactual Risk Assessments, Evaluation, and Fairness."
 
