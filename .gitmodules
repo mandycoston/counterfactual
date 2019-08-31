@@ -1,0 +1,4 @@
+[submodule "equalized_odds_and_calibration"]
+	path = equalized_odds_and_calibration
+	url = https://github.com/mandycoston/equalized_odds_and_calibration.git
+	branch = master
